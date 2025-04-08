@@ -1,4 +1,9 @@
-## Hi there I am Umar 👋
+## Hi there I am UmarJavaid 👋
+## Full Stack Developer ☠️
+## Mern Stack Developer 😎
+## Tailwindcss & Bootstrap & CSS 😎
+## JAVASCRIPT  😎
+
 
 <!--
 **uj2345/uj2345** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
