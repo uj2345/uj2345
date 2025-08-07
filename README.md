@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm umar javaid</h1>
-<h3 align="center">I build modern, full-stack web applications and tools that solve real problems using React, Next.js, Node.js, and MongoDB</h3>
+<h3 align="center">👨‍💻 I specialize in building fast, responsive, and scalable full-stack web applications using modern technologies like React, Next.js, Node.js, and MongoDB. Whether you need a dynamic business site, a powerful eCommerce platform, or a custom web tool — I turn ideas into production-ready products. 🛠️ What I Do: 🌐 Website Development – Clean, modern, and mobile-friendly websites built from scratch using the latest frontend frameworks. 🛒 eCommerce Stores – Complete eCommerce solutions with product management, checkout, user accounts, and admin panels. 🧰 Web Tools & SaaS Apps – Utility tools (like PDF editors, converters, etc.) that are fast, user-friendly, and monetization-ready. 🔒 Authentication Systems – Secure login/signup systems using JWT, sessions, and password encryption. 📦 Backend APIs – Custom-built RESTful APIs using Express.js, optimized for performance and security. 📈 Admin Dashboards – Advanced dashboards with analytics, user management, and product control for businesses or sellers. 🖼️ Media Upload Systems – Image and video upload features with proper file handling, cloud integration, and real-time previews. 🧠 SEO Optimization – Fast-loading, SEO-friendly websites with optimized metadata and responsive design. ☁️ Deployment – Fully deployed apps using Vercel, Render, or custom VPS setups, with domain integration and free SSL. 💡 Whether you're a startup, an individual, or a business owner — I help bring your web vision to life with performance, scalability, and quality in mind.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uj2345&label=Profile%20views&color=0e75b6&style=flat" alt="uj2345" /> </p>
 
@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/umarjavaid94735" target="blank"><img src="https://img.shields.io/twitter/follow/umarjavaid94735?logo=twitter&style=for-the-badge" alt="umarjavaid94735" /></a> </p>
 
-- 🔭 I’m currently working on prodigywebs [Bokuza](Bokuza.com)
+- 🔭 I’m currently working on Bokuza [Bokuza](Bokuza.com)
 
 - 🌱 I’m currently learning **Python**
 
@@ -18,7 +18,7 @@
 - 📫 How to reach me **umarjavaid9259@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left gap-3">
 <a href="https://twitter.com/umarjavaid94735" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="umarjavaid94735" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/umar-javaid-0a3703338/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/umar-javaid-0a3703338/" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/umar.javaid.791508/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/umar.javaid.791508/" height="30" width="40" /></a>
