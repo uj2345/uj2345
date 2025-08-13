@@ -1,7 +1,12 @@
 <!-- README Profile for Umar Javaid -->
 
 <h1 align="center">Hi 👋, I'm Umar Javaid</h1>
-<h3 align="center">🚀 Full-Stack Web Developer | React, Next.js, Node.js, MongoDB</h3>
+<h3 align="center">🚀 Full-Stack Web Developer | React, Next.js, Node.js, MongoDB | 3D Web Experiences</h3>
+
+<!-- 3D Animation -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/uj2345/uj2345/main/assets/3d-dev.gif" alt="3D Developer Animation" width="400"/>
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=uj2345&label=Profile%20Views&color=blueviolet&style=plastic" alt="uj2345" />
@@ -15,34 +20,36 @@
 <h2>👨‍💻 About Me</h2>
 
 <p>
-I specialize in building <strong>fast, responsive, and scalable full-stack web applications</strong> using modern technologies like <code>React</code>, <code>Next.js</code>, <code>Node.js</code>, and <code>MongoDB</code>. I help individuals, startups, and businesses bring their digital ideas to life with top-notch performance and clean UI/UX.
+I’m a passionate <strong>Full Stack Developer</strong> who builds <strong>fast, responsive, SEO-friendly, and visually stunning web applications</strong>.  
+With expertise in <code>React</code>, <code>Next.js</code>, <code>Node.js</code>, and <code>MongoDB</code>, I specialize in creating everything from <strong>3D animated websites</strong> to complex SaaS platforms.  
+I turn ideas into reality — from sleek portfolios to enterprise-level applications.
 </p>
 
 <h3>🛠️ What I Do:</h3>
 <ul>
-  <li>🌐 <strong>Website Development:</strong> Clean, modern, and mobile-friendly websites built from scratch.</li>
+  <li>🌐 <strong>Website Development:</strong> Clean, modern, and mobile-friendly websites with 3D animations.</li>
   <li>🛒 <strong>eCommerce Platforms:</strong> Product management, secure checkout, user dashboards, and admin panels.</li>
-  <li>🧰 <strong>Web Tools & SaaS:</strong> PDF editors, converters, and productivity tools, ready for monetization.</li>
+  <li>🧰 <strong>Web Tools & SaaS:</strong> PDF editors, converters, productivity tools, and AI integrations.</li>
   <li>🔒 <strong>Authentication Systems:</strong> Secure login/signup with JWT, sessions, and encryption.</li>
-  <li>📦 <strong>RESTful APIs:</strong> Optimized Express.js APIs for robust backend architecture.</li>
-  <li>📈 <strong>Admin Dashboards:</strong> Analytics, user & product management, role-based access control.</li>
-  <li>🖼️ <strong>Media Uploads:</strong> Image/video upload with cloud storage, real-time preview, and management.</li>
-  <li>🧠 <strong>SEO Optimization:</strong> SEO-friendly structures with responsive design and metadata tuning.</li>
-  <li>☁️ <strong>Deployment:</strong> Vercel, Render, or custom VPS with domain + SSL setup.</li>
+  <li>📦 <strong>RESTful APIs:</strong> Optimized Express.js & FastAPI backends for scalability.</li>
+  <li>📈 <strong>Admin Dashboards:</strong> Analytics, user management, and role-based access control.</li>
+  <li>🖼️ <strong>Media Uploads:</strong> Image/video upload with cloud storage and live preview.</li>
+  <li>🧠 <strong>SEO Optimization:</strong> Google-friendly structures and performance tuning.</li>
+  <li>☁️ <strong>Deployment:</strong> Vercel, Render, VPS with SSL + domain setup.</li>
 </ul>
 
 ---
 
 <h2>🏆 GitHub Trophies</h2>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=uj2345&theme=gruvbox&margin-w=10&margin-h=10&no-bg=true" alt="GitHub Trophies">
+  <img src="https://github-profile-trophy.vercel.app/?username=uj2345&theme=algolia&margin-w=10&margin-h=10&no-bg=true" alt="GitHub Trophies">
 </p>
 
 ---
 
 <h2>🔧 Languages & Tools</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,php,vue,bootstrap,tailwind,git,figma,linux,nginx,aws,gcp,androidstudio,photoshop,pug,python" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,php,vue,bootstrap,tailwind,git,figma,linux,nginx,aws,gcp,androidstudio,photoshop,pug,python,threejs" />
 </p>
 
 ---
@@ -63,7 +70,7 @@ I specialize in building <strong>fast, responsive, and scalable full-stack web a
 <h2>🌐 Connect with Me</h2>
 <p align="center">
   <a href="https://twitter.com/umarjavaid94735" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/umar-javaid-0a3703338/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://www.facebook.com/umar.javaid.791508" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
   <a href="https://www.instagram.com/mirza_umar521/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
@@ -78,4 +85,4 @@ I specialize in building <strong>fast, responsive, and scalable full-stack web a
 
 ---
 
-<p align="center">🔥 Let’s build something amazing together!</p>
+<p align="center">🔥 Let’s build something amazing together — in 3D!</p>
